@@ -14,7 +14,7 @@ This Skill uses the [Wikimedia API](https://en.wikipedia.org/w/api.php).
 * "What's another event?"
 
 ## Credits
-austin-carnahan
+Siluq
 
 ## Category
 **Information**
